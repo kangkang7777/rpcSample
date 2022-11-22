@@ -23,7 +23,3 @@ rpcSample为本增强现实应用开发引擎微服务/rpc的仓库。提供测�
 (3) 根据自己库目录在CmakeList.txt中修改Opencv等库的位置<br>
 (4) 先运行rpc_server，再运行rpc_client样例进行测试<br>
 
-## 数据
-
-使用之江实验室提供的卫星数据进行重建，链接: https://pan.baidu.com/s/1BAVPtgFZ09T5UUxWYaXbLg  密码: c8ea
-
